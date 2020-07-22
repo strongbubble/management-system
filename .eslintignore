@@ -1,0 +1,11 @@
+/lambda/
+/scripts
+/config
+/src/components
+/src/layouts/BasicLayout.tsx
+/src/models/login.ts
+/src/pages/dashboard
+/src/pages/form
+/src/pages/list
+/src/pages/user/login/index.tsx
+.history
